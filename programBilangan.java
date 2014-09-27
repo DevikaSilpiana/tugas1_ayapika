@@ -32,7 +32,7 @@ public class programBilangan
 		System.out.print("Masukan nilai : ");
 		int N=scan.nextInt();
 		System.out.println("Deret Fibonaci : ");
-			for(i=0; n<i; i++)
+			for(i=0; i<N; i++)
 			{
 				x=x+y;
 				System.out.printf(x+ " ");
