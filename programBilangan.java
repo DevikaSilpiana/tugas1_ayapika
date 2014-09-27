@@ -26,10 +26,13 @@ public class programBilangan
 			System.out.print(bil+",");
 		}
 		
+		System.out.println("");
+		System.out.println("Bilangan fibonanci");
+		System.out.println("===================");
 		System.out.print("Masukan nilai : ");
 		int N=scan.nextInt();
 		System.out.println("Deret Fibonaci : ");
-			for(i=0; i<N; i++)
+			for(i=0; n<i; i++)
 			{
 				x=x+y;
 				System.out.printf(x+ " ");
